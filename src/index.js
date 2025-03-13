@@ -1,3 +1,3 @@
-import Display from "./Display";
+import {Display,Name} from "../components/Display";
 
-export { Display }
+export { Display,Name }
